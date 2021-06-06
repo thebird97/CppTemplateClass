@@ -1,0 +1,3 @@
+F:/CLion/vizsga/cmake-build-debug/CMakeFiles/vizsga.dir
+F:/CLion/vizsga/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/CLion/vizsga/cmake-build-debug/CMakeFiles/rebuild_cache.dir

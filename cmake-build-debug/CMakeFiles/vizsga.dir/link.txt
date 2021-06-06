@@ -1,0 +1,3 @@
+"D:\Program files in Games\ToolBox\apps\CLion\ch-0\211.7442.42\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\vizsga.dir/objects.a
+C:\PROGRA~2\CODEBL~1\MinGW\bin\ar.exe cr CMakeFiles\vizsga.dir/objects.a @CMakeFiles\vizsga.dir\objects1.rsp
+C:\PROGRA~2\CODEBL~1\MinGW\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\vizsga.dir/objects.a -Wl,--no-whole-archive -o vizsga.exe -Wl,--out-implib,libvizsga.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\vizsga.dir\linklibs.rsp

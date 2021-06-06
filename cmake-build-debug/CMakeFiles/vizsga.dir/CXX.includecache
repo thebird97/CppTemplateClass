@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/CLion/vizsga/atview.h
+vector
+-
+valarray
+-
+algorithm
+-
+string.h
+-
+cstring
+-
+iostream
+-
+
+F:/CLion/vizsga/main.cpp
+iostream
+-
+atview.h
+F:/CLion/vizsga/atview.h
+vector
+-
+algorithm
+-
+cstring
+-
+numeric
+-
+cctype
+-
+
